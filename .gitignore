@@ -1,0 +1,7 @@
+/gira
+coverage.out
+coverage.html
+/dist/
+.env
+*.key
+config.yaml
